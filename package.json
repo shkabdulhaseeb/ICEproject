@@ -34,7 +34,7 @@
     "moment": "2.24.0",
     "ngx-bootstrap": "2.0.5",
     "rxjs": "5.5.12",
-    "tinymce": "4.9.4",
+    "tinymce": "5.4.1",
     "ts-helpers": "1.1.2",
     "typescript": ">=1.8.0  <2.1.0 || >=1.9.0-dev || >=2.0.0-dev || || >=2.1.0-dev",
     "zone.js": "0.8.29"
